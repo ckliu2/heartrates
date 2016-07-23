@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Care2.0 Heart rate monitor</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="ok">OK</string>
+
+    <string name="finish">Finish</string>
+
+    <string name="sysinfo">System Information</string>
+
+    <string name="save_ok">Save Successfully</string>
+
+
+    <string name="action_settings">Server Receive Web Page</string>
+    <string name="alertvoice">Adjust the alert volume</string>
+
+
+    <string-array name="setting_list">
+        <item>Setting</item>
+        <item>Record</item>
+
+        <item>stop1</item>
+        <item>restart1</item>
+        <item>battery1</item>
+        <item>stop2</item>
+        <item>restart2</item>
+        <item>battery2</item>
+        <item>stop3</item>
+        <item>restart3</item>
+        <item>battery3</item>
+        <item>dbcheck</item>
+        <item>bleReset</item>
+
+    </string-array>
+
+    <string-array name="device_option">
+        <item>Select</item>
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+
+    <string name="title_activity_device_scan">DeviceScanActivity</string>
+
+</resources>
